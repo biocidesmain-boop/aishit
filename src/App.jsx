@@ -27,7 +27,7 @@ function App() {
   const fileInputRef = useRef(null)
   const chatWindowRef = useRef(null)
 
-  const apiKey = import.meta.env.VITE_GEMINI_API_KEY || "AQ.Ab8RN6K5mJrxk692lNd7HvCCXogCdsIBGg4QNcj90Tts1uJUJA";
+  const apiKey = import.meta.env.VITE_GEMINI_API_KEY || "AQ.Ab8RN6JyxOeJyhnndRe55zHjUgke4Ag6ZAiTvdjoOYQXW-7w0w";
   const genAI = new GoogleGenerativeAI(apiKey);
 
   useEffect(() => {
