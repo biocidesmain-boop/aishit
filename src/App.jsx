@@ -185,7 +185,7 @@ setInput('')
     setLoading(true)
 
     // Używamy jednego, w 100% działającego i najszybszego modelu
-    const modelName = 'gemini-2.0-flash'
+    const modelName = 'gemini-1.5-flash'
     let responseText = ""
     let success = false
     let lastError = null
