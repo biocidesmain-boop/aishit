@@ -306,7 +306,7 @@ setInput('')
                   <Sparkles size={40} className="welcome-icon" />
                 </div>
                 <h3>Napisz do patyk ai</h3>
-                <p>no pisz do tego huia</p>
+                <p>no pisz do tego czata</p>
               </div>
             )}
             
